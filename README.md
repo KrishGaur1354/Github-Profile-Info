@@ -1,8 +1,6 @@
-# GitHub Profile Info Search
+# GitHub Profile Info 
 
-[![GitHub Profile Info Search](https://your-website-url.com/banner.png)](https://your-website-url.com/)
-
-GitHub Profile Info Search is a website that allows you to search for information about other GitHub users and explore their repositories. Whether you're looking to discover interesting projects, learn from experienced developers, or simply connect with the GitHub community, our platform provides a convenient way to explore GitHub profiles and their associated repositories.
+GitHub Profile Info is a website that allows you to search for information about other GitHub users and explore their repositories. Whether you're looking to discover interesting projects, learn from experienced developers, or simply connect with the GitHub community, our platform provides a convenient way to explore GitHub profiles and their associated repositories.
 
 ## Features
 
@@ -14,7 +12,7 @@ GitHub Profile Info Search is a website that allows you to search for informatio
 
 ## How to Use
 
-1. Visit our website at [https://your-website-url.com/](https://your-website-url.com/).
+1. Visit our website at [Github-Profile-Info](https://krishgaur1354.github.io/Github-Profile-Info/).
 2. Enter the GitHub username of the user you want to search for in the search bar.
 3. Press the search button or hit enter.
 4. Browse through the search results to find the desired user.
@@ -24,7 +22,6 @@ GitHub Profile Info Search is a website that allows you to search for informatio
 ## Technologies Used
 
 - **Front-end**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
 - **GitHub API**: Used to fetch user and repository data
 
 ## Contributing
@@ -49,8 +46,4 @@ To set up the project locally for development purposes, follow these steps:
 
 ## License
 
-This project is licensed under the [InLicense](LICENSE).
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact us at [contact@example.com](mailto:contact@example.com). We appreciate your valuable input!
+This project is licensed under the [UnLicense](LICENSE).
